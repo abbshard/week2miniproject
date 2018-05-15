@@ -1,0 +1,2 @@
+week2miniproject
+my initial commit
